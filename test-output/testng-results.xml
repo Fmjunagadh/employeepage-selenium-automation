@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-11-24T14:55:43 IST" name="Default suite" finished-at="2021-11-24T14:58:17 IST" duration-ms="154337">
+    <groups>
+    </groups>
+    <test started-at="2021-11-24T14:55:43 IST" name="Default test" finished-at="2021-11-24T14:58:17 IST" duration-ms="154337">
+      <class name="Employee_Tracking.selenium_employee.App">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:Employee_Tracking.selenium_employee.App@d78795]" started-at="2021-11-24T14:55:43 IST" name="openBrowser" finished-at="2021-11-24T14:55:43 IST" duration-ms="449" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="AddUserAuthenticationTest()[pri:1, instance:Employee_Tracking.selenium_employee.App@d78795]" started-at="2021-11-24T14:55:43 IST" name="AddUserAuthenticationTest" finished-at="2021-11-24T14:55:46 IST" duration-ms="2783" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddUserAuthenticationTest -->
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:Employee_Tracking.selenium_employee.App@d78795]" started-at="2021-11-24T14:55:46 IST" name="openBrowser" finished-at="2021-11-24T14:55:46 IST" duration-ms="84" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="AddEmployeeinformationTest()[pri:2, instance:Employee_Tracking.selenium_employee.App@d78795]" started-at="2021-11-24T14:55:46 IST" name="AddEmployeeinformationTest" finished-at="2021-11-24T14:55:50 IST" duration-ms="4346" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddEmployeeinformationTest -->
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:Employee_Tracking.selenium_employee.App@d78795]" started-at="2021-11-24T14:55:50 IST" name="openBrowser" finished-at="2021-11-24T14:55:50 IST" duration-ms="59" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="AddEmployeeActivityTest()[pri:3, instance:Employee_Tracking.selenium_employee.App@d78795]" started-at="2021-11-24T14:55:50 IST" name="AddEmployeeActivityTest" finished-at="2021-11-24T14:58:17 IST" duration-ms="146495" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddEmployeeActivityTest -->
+      </class> <!-- Employee_Tracking.selenium_employee.App -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
